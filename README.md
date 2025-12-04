@@ -8,4 +8,4 @@ The **Fig** folder contains the figures used in the paper.\
 **Functions:**\
 **(1).DPM_drugmis**\
 This function is the main function used to run the analysis. It consists of five steps that generate all the figures and tables in the study.\
-*First step is to generate the misspecified drug 2 sensitivies.\
+-First step is to generate the misspecified drug 2 sensitivies.\
