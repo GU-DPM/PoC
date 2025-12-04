@@ -7,5 +7,5 @@ The **Code** folder contains the functions used in the work.\
 The **Fig** folder contains the figures used in the paper.\
 **Functions:**\
 ***(1).DPM_drugmis**\
-This function the main function used to run the work. There are total 5 steps to give the the results (figures and tables) in the work.\
-<ul><li></li></ul>
+This function is the main function used to run the analysis. It consists of five steps that generate all the figures and tables in the study.\
+<ul><li></li></ul> First step is to generate the misspecified drug 2 sensitivies.\
