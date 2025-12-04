@@ -5,7 +5,7 @@
 
 The **Code** folder contains the functions used in the work.\
 The **Fig** folder contains the figures used in the paper.\
-All original data required for running the code is provided in the .csv files within the **./Code/pnas** directory. These files store the original, non-misspecified parameter values.
+All original data required for running the code is provided in the .csv files within the **./Code/pnas** directory. These files store the original, non-misspecified parameter values.\
 **Functions:**\
 **(1).DPM_drugmis**\
 This function is the main function used to run the analysis. It consists of five steps that generate all the figures and tables in the study.\
