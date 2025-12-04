@@ -4,4 +4,5 @@
 </div>
 
 The **Code** folder contains the functions used in the work.\
-The **Fig** folder contains the figures used in the paper.
+The **Fig** folder contains the figures used in the paper.\
+**Functions:**
