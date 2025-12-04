@@ -11,7 +11,7 @@ All original data required for running the code is provided in the .csv files wi
 This function is the main function used to run the analysis. It consists of five steps that generate all the figures and tables in the study.\
 *The first step is to generate the misspecified drug 2 sensitivies.\
 *The second step is to run the simulations under the different misspecification scenarios.\
-*The third step is to run the simulations without misspecification.\ 
+*The third step is to run the simulations without misspecification.\
 *The fourth step is to process the simulation outputs, covering both misspecification and non-misspecificaiton scenarios.\
 *The fifth step is to analyze the results from the fourth step and genrate the raw figures (Fig.3,4,5,S2, Tab.S1) used in the paper.\
 
