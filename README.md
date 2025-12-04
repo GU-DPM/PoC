@@ -5,4 +5,7 @@
 
 The **Code** folder contains the functions used in the work.\
 The **Fig** folder contains the figures used in the paper.\
-**Functions:**
+**Functions:**\
+***(1).DPM_drugmis**\
+This function the main function used to run the work. There are total 5 steps to give the the results (figures and tables) in the work.\
+<ul><li></li></ul>
