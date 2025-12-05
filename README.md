@@ -26,6 +26,22 @@ This script defines the model parameter names, input parameter names, and the de
 This script generates the function arguments and parameters used in the model.\
 **(7).DPM_lib.py**\
 This script loads the packages required to run the work.\
+**(8).DPM_miscellaneous.py**\
+This script contains the miscellaneous functions used in the work.\
+**(9).DPM_model.py**\
+This script contains the model functions and performs the model simulation.\
+**(10).DPM_plot.py**\
+This script plots the simulation results of the model.\
+**(11).DPM_print.py**\
+This script defines the print functions used in the work.\
+***(12).DPM_read_save.py**\
+This script contains functions for reading data from files and saving data into files.\
+**(13).DPM_run.py**\
+This script contains functions for analyzing the simulation results related to drug misspecification.\
+**(14).DPM_strategy.py**\
+This script contains various treatment strategies.
+
+
 
 
 
