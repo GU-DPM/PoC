@@ -37,8 +37,10 @@ This script defines the print functions used in the work.\
 **(12).DPM_read_save.py**\
 This script contains functions for reading data from files and saving data into files.\
 **(13).DPM_run.py**\
+This script contains functions for running the model simulations.\
+**(14).DPM_run_drugmis.py**\
 This script contains functions for analyzing the simulation results related to drug misspecification.\
-**(14).DPM_strategy.py**\
+**(15).DPM_strategy.py**\
 This script contains various treatment strategies.
 
 
